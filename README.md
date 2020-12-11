@@ -1,6 +1,6 @@
 ## Hello there! I'm Alejandro. 👋
 
-I am a data scientist with a background in finance.📈 I am passionate about building machine learning models, working with data, and building cool apps. Computer vision and NLP definitely stand above the rest, but I cannot pass up a good regression or classification problem that help get a competitive advantage.🤖
+I am a data scientist with a background in finance.📈 I am passionate about building machine learning models, working with data, and building cool apps. Computer vision and NLP definitely stand above the rest, but I cannot pass up a good regression or classification problem that can help get a competitive advantage.🤖
 
 ### **In my free time, I like to...** 
 📝 Write blogs  
