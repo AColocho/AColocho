@@ -30,3 +30,4 @@ I am a data scientist with a background in finance.📈 I am passionate about bu
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alejandro-colocho/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alejandro-colocho/2" alt="Recent Article 2"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alejandro-colocho/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alejandro-colocho/3" alt="Recent Article 3"> 
+
