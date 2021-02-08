@@ -8,8 +8,8 @@ I am a data scientist with a background in finance.📈 I am passionate about bu
 
 
 ### **In my free time, I like to...** 
-📝 Write blogs  
-👥 Connect with new people  
+📝 Write blogs.  
+👥 Connect with new people.  
 💭 Brainstorm new project ideas.
 
 ### **Tech I've worked with...**
