@@ -2,13 +2,9 @@
 
 I am passionate about building machine learning models, working with data, and building cool apps. Computer vision and NLP definitely stand above the rest, but I cannot pass up a good regression or classification problem.🤖
 
-### **I'm working on...** 
-📜 my masters in Machine Learning
-
 ### **I've been..**
-🎓 Working on my Masters Degree.  
+🎓 Working on my Masters in Machine Learning.  
 📚 Learning new tech.
-
 
 ### **In my free time, I like to...** 
 📝 Write blogs.  
