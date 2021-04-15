@@ -5,11 +5,15 @@ I am passionate about building machine learning models, working with data, and b
 ### **I'm working on...** 
 📜 my masters in Machine Learning
 
+### **I've been..**
+🎓 Working on my Masters Degree.  
+📚 Learning new tech.
+
+
 ### **In my free time, I like to...** 
-📝 Write blogs  
-📚 Learn new tech  
-👥 Connect with new people  
-💭 Brainstorm new projects  
+📝 Write blogs.  
+👥 Connect with new people.  
+💭 Brainstorm new project ideas.
 
 ### **Don’t be a stranger! You can find me in the following places:**  
 <p align="left">
